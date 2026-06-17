@@ -8,3 +8,4 @@ uv pip install openai tyro numpydantic albumentations tianshou git+https://githu
 uv pip install pyarrow fastparquet piq lightning moviepy==2.2.1
 uv pip install -U 'jsonargparse[signatures]>=4.27.7'
 uv pip install torchcodec==0.5 --index-url=https://download.pytorch.org/whl/cu128
+
